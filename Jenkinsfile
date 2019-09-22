@@ -1,4 +1,4 @@
-def managerIp = '10.0.0.218'
+def managerIp = '10.0.0.100'
 def registry = 'registry.xmin-cloud.guru'
 
 node('master'){
